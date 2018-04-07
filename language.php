@@ -1,0 +1,9 @@
+<?php
+$lang["slogan"] = "Surfez en sécurité";
+$lang["wikipedia"] = "Wikipedia";
+$lang["back"] = "Retour";
+$lang["go"] = "Aller";
+$lang["home"] = "Accueil";
+$lang["tos"] = "L'accès à notre site est autorisé sur une base temporaire et nous nous réservons le droit de supprimer ou de modifier les services fournis sur notre site sans préavis (voir ci-après). Nous déclinons toute responsabilité pour toute raison pour laquelle notre site est indisponible pour une date ou une période donnée. De temps en temps, il est possible que nous limitions l'accès à certaines parties de notre site ou à son intégralité aux utilisateurs enregistrés. Si vous choisissez ou que vous recevez un code ou un mot de passe d'identification utilisateur, ou toute autre information liée aux procédures de sécurité, vous devez traiter ces informations comme confidentielles. Ne les divulguez jamais à un tiers. Nous avons le droit de désactiver tout code ou mot de passe d'identification utilisateur à tout instant, que vous l'ayez choisi ou que nous vous l'ayons assigné, si nous estimons que vous n'avez pas respecté l'une des clauses des présentes conditions d'utilisation. Lorsque vous utilisez notre site, vous devez respecter les clauses de notre Politique d'utilisation responsable. Vous devez prendre les dispositions nécessaires pour pouvoir accéder à notre site. Vous devez également vous assurer que toutes les personnes accédant à notre site via votre connexion Internet sont conscientes de ces conditions et qu'elles les respectent.";
+$lang["agree"] = "YouGraph Network";
+$lang["tos_2"] = "Conditions d'utilisation";
