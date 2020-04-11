@@ -4,7 +4,7 @@
 $config = array();
 
 $config['website-name'] = "Web Proxy";
-$config['website-url'] = "http://yougraph.co/proxy";
+$config['website-url'] = "https://proxiey.herokuapp.com";
 $config['website-description'] = "PHP - Online Web Proxy";
 
 // a unique key that identifies this application - DO NOT LEAVE THIS EMPTY!
